@@ -10,7 +10,7 @@ on:
 # on: push    # Default will running for every branch.
     
 jobs:
-  jobs:
+
   build:
     runs-on: macos-latest
     steps:
